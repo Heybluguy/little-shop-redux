@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-## Link: [here](https://dry-retreat-32983.herokuapp.com/)
+## Link: [Litte Shop Redux](https://dry-retreat-32983.herokuapp.com/)
 
 # Little Shop Redux
 
